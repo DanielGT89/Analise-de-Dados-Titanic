@@ -2,3 +2,4 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
 ![Big Data](https://img.shields.io/badge/-Big%20Data-4C8BF5?style=for-the-badge&logo=data)
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
+![Análise Estatística](https://img.shields.io/badge/-Análise%20Estatística-FF5733?style=for-the-badge&logo=stats)
